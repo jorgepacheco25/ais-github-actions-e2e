@@ -1,7 +1,7 @@
 name: e2e-workflow
 
 on: 
-  push:
+  workflow_dispatch
 
 jobs:
   build:
